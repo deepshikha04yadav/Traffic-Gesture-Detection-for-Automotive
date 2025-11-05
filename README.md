@@ -28,4 +28,4 @@ This dataset contains images of traffic police performing various hand gestures 
 * OpenCV for image preprocessing and visualization
 
 ## Author
-Developed by Deepshikha Yadav
+Developed by [Deepshikha Yadav](https://github.com/deepshikha04yadav)
